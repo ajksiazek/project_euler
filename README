@@ -1,2 +1,6 @@
 As of now the few Project Euler problems I've solved are written in C and 
 compiled with gcc.
+
+I'm feeling rusty, so the solutions are about simplicity and correctness rather
+than efficiency. I will likely return to some of these problems to implement
+'better' solutions.
